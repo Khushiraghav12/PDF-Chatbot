@@ -19,7 +19,6 @@ An intelligent **PDF Question Answering System** that enables users to interact 
 - PyMuPDF
 - OCR (Tesseract)
 - FAISS / Vector Embeddings
-- HTML, CSS, JavaScript
 
 ## 🚀 How It Works
 1. Upload a PDF document.
